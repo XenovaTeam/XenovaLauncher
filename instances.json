@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "defaultInstance": "xenova-principal",
+  "instances": [
+    {
+      "id": "xenova-principal",
+      "name": "Xenova Principal",
+      "description": "Instancia principal de Xenova Client",
+      "repo": "https://github.com/XenovaTeam/xenova-principal",
+      "visibility": {
+        "public": true
+      }
+    }
+  ]
+}
