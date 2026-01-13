@@ -8,13 +8,14 @@
       "description": "Instancia principal de Xenova Client",
       "repo": "https://github.com/XenovaTeam/xenova-principal",
       "logo": "/xenova-logo.webp",
-      "background": "/deep-space-nebula-with-vibrant-blue-and-purple-sta.jpg",
+      "background": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/refs/heads/main/Desafio.jpg",
       "visibility": {
         "public": true
       }
     }
   ]
 }
+
 
 
 
