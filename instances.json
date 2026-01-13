@@ -7,7 +7,7 @@
       "name": "Xenova Principal",
       "description": "Instancia principal de Xenova Client",
       "repo": "https://github.com/XenovaTeam/xenova-principal",
-      "logo": "/xenova-logo.webp",
+      "logo": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/refs/heads/main/Desafio.jpg",
       "background": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/refs/heads/main/Desafio.jpg",
       "visibility": {
         "public": true
@@ -15,6 +15,7 @@
     }
   ]
 }
+
 
 
 
