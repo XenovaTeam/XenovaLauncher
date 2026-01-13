@@ -7,19 +7,22 @@
       "name": "Xenova Principal",
       "description": "Instancia principal de Xenova Client",
       "repo": "https://github.com/XenovaTeam/xenova-principal",
-      "logo": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/refs/heads/main/Desafio.jpg",
-      "background": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/refs/heads/main/Desafio.jpg",
+      "logo": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/Desafio.jpg",
+      "background": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/Desafio.jpg",
+      "visibility": {
+        "public": true
+      }
+    },
+    {
+      "id": "dedsafio-3",
+      "name": "Dedsafio 3",
+      "description": "Instancia Dedsafio 3 de Xenova Client",
+      "repo": "https://github.com/XenovaTeam/dedsafio-3",
+      "logo": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/Desafio.jpg",
+      "background": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/Desafio.jpg",
       "visibility": {
         "public": true
       }
     }
   ]
 }
-
-
-
-
-
-
-
-
