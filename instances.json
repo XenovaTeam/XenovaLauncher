@@ -18,11 +18,12 @@
       "name": "Dedsafio 3",
       "description": "Instancia Dedsafio 3 de Xenova Client",
       "repo": "https://github.com/XenovaTeam/dedsafio-3",
-      "logo": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/Desafio.jpg",
-      "background": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/Desafio.jpg",
+      "logo": "",
+      "background": "",
       "visibility": {
         "public": true
       }
     }
   ]
 }
+
