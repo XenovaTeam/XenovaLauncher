@@ -1,6 +1,6 @@
 {
   "version": "1.4.0",
-  "defaultInstance": "xenova-principal",
+  "defaultInstance": "",
   "instances": [
     {
       "id": "xenova-principal",
@@ -27,3 +27,4 @@
     }
   ]
 }
+
