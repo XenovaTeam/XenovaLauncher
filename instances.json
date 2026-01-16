@@ -21,11 +21,9 @@
       "logo": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/images.jpg",
       "background": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/images.jpg",
       "visibility": {
-        "public": true
+        "public": false,
+        "whitelistUrl": "https://raw.githubusercontent.com/XenovaTeam/dedsafio-3/main/whitelist.json"
       }
     }
   ]
 }
-
-
-
