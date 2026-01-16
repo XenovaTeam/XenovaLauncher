@@ -4,8 +4,8 @@
   "instances": [
     {
       "id": "xenova-principal",
-      "name": "Xenova Principal",
-      "description": "Instancia principal de Xenova Client",
+      "name": "Dedsafio 3",
+      "description": "Capsafio Testing",
       "repo": "https://github.com/XenovaTeam/xenova-principal",
       "logo": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/Desafio.jpg",
       "background": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/Desafio.jpg",
@@ -15,8 +15,8 @@
     },
     {
       "id": "dedsafio-3",
-      "name": "Dedsafio 3",
-      "description": "Instancia Dedsafio 3 de Xenova Client",
+      "name": "Capsafio 1",
+      "description": "Capsafio 1",
       "repo": "https://github.com/XenovaTeam/dedsafio-3",
       "logo": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/images.jpg",
       "background": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/images.jpg",
@@ -26,5 +26,6 @@
     }
   ]
 }
+
 
 
