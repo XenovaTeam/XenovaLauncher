@@ -9,6 +9,7 @@
       "repo": "https://github.com/XenovaTeam/xenova-principal",
       "logo": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/Desafio.jpg",
       "background": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/Desafio.jpg",
+      "rpcImageKey": "xenova-principal",
       "visibility": {
         "public": true
       }
@@ -20,6 +21,7 @@
       "repo": "https://github.com/XenovaTeam/dedsafio-3",
       "logo": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/images.jpg",
       "background": "https://raw.githubusercontent.com/XenovaTeam/XenovaLauncher/main/images.jpg",
+      "rpcImageKey": "dedsafio-3",
       "visibility": {
         "public": false,
         "whitelistUrl": "https://raw.githubusercontent.com/XenovaTeam/dedsafio-3/main/whitelist.json"
@@ -27,4 +29,3 @@
     }
   ]
 }
-
